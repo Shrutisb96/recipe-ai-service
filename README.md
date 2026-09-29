@@ -1,6 +1,6 @@
 # 🍳 Recipe AI
 
-> An intelligent recipe suggestion platform that uses AI to recommend recipes based on your available ingredients, calorie goals, and dietary preferences — built with Java Spring Boot and powered by Claude AI.
+> An intelligent recipe suggestion platform that uses AI to recommend recipes based on your available ingredients, calorie goals, and dietary preferences — built with Java Spring Boot and powered by AI.
 
 ---
 
